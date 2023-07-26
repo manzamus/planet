@@ -79,7 +79,7 @@ img{
 } */
 .home-container{
     background-image: url(https://oceanservice.noaa.gov/ocean/earthday-infographic.jpg);
-
+margin-top: 24rem;
     background-size: cover;
 }
 .home{
@@ -112,6 +112,11 @@ button{
     gap: 4rem;
     padding: 3rem;
 }
+.biton{
+     padding: 3rem;
+     height: 4rem;
+margin-top: 2rem;
+}
 .byu{
     font-size: 20px;
     padding: 3rem;
@@ -122,7 +127,14 @@ button{
     height: 500px;
     padding-top:1rem;
     color: black;
-    display: flex;
+    /* display: flex; */
+    }
+    .topics{
+        display: flex;
+        /* background-color: azure; */
+        align-items: center;
+        justify-content: space-between;
+        color: #eee;
     }
   /* }
     form{
@@ -143,7 +155,12 @@ button{
     padding: 1rem;
     display: none;
 }
-
+.home-contner{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
 
 .socials-media-icons-linkss:hover,
 .socials-media-icons-linkss:visited{
@@ -155,6 +172,24 @@ left: 0%;
 top: 0%;
 margin-left: 3rem;
 }
+.form{
+
+ margin-right: 2rem;
+    
+}
+.pictur img{
+    width: 400px;
+    height: 300px;
+  
+}
+  .pictur3 img{
+    width: 400px;
+    height: 300px;
+  }
+  p{
+    color: aliceblue;
+  }
+
 
   /* ---------------------responsive----------------- */
 

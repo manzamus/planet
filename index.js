@@ -6,9 +6,9 @@ function taggle(){
          nav.className = 'nav-link'
      }
 }
-const freind1='nazifa';
-const freind2='FALI';
-const bfreind3='nema'
+const friend1=('nazifa');
+const friend2=('FALI');
+const friend3=('nema');
 
-const freinds=('nazifa','FALI','nema');
-console.log(freinds);
+const friends=('nazifa','FALI','nema');
+console.log(friends);

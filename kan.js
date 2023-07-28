@@ -1,11 +1,19 @@
-function logger(){
-let accaunt='owner'
-}
-function logger(){
-    console.log('my name is nazifa')
-}
-const calcAge2 =function(birthyear){
-    return 20370-birthyear;
-}
-const calaAge3=calcAge3=birthyear =>2037-birthyear
-const age3=calcAge(1991);
+
+
+
+
+
+
+
+
+const friend1='nazifa';
+const friend2='neema';
+const friend3='fari';
+const friends=('nazifa','neema','fari');
+console.log(friends);
+alert(4+5);
+console.log(4 + 6);
+let a=y+h;
+const u=5;
+const h=4;
+let totol=u+h;

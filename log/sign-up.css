@@ -1,0 +1,26 @@
+*,
+*::after,
+*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+}
+ul{
+   
+    display:flex;
+    list-style-type: none;
+    gap: 3rem;
+    text-decoration: none;
+}
+.container{
+    background-image: url(https://images.pexels.com/photos/205421/pexels-photo-205421.jpeg?);
+    padding: 12rem;
+    width: 100%;
+
+}
+.form signup {
+    background-color: blueviolet;
+}
